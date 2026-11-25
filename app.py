@@ -149,7 +149,7 @@ st.markdown(
 # 2. DATA LOADING
 # ============================================================
 
-@st.cache_data(ttl=3600, show_spinner="Loading earthquake data from USGS...")
+@st.cache_data(ttl=21600, show_spinner="Loading earthquake data from USGS...")
 def load_data():
     df = fetch_recent_events(days=365).copy()
 
