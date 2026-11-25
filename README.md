@@ -2,9 +2,19 @@
 
 **An end-to-end earthquake data pipeline and interactive dashboard powered by the USGS Earthquake API.**
 
+🌐 **[Live Dashboard](https://quake-dna-nvggp83uttopbswljogcac.streamlit.app/)**
+
 Quake DNA is a data analytics project designed to collect, validate, process, and explore earthquake events through an interactive dashboard.
 
 The project combines Python-based data ingestion and processing with Streamlit visualizations to make seismic activity easier to explore and understand.
+
+## Live Demo
+
+Explore the deployed application:
+
+**[Open Quake DNA Dashboard](https://quake-dna-nvggp83uttopbswljogcac.streamlit.app/)**
+
+The dashboard allows users to explore recent earthquake activity, analyze geographic patterns, filter individual events, and review seismic records interactively.
 
 ## Project Overview
 
